@@ -3,4 +3,4 @@
 branch = True
 [paths]
 source =
-  google_tr_async
+  bdtr_async
