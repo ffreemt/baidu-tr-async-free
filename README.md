@@ -1,4 +1,4 @@
-# baidu-tr-async-free
+# baidu-tr-async-free ![Python package](https://github.com/ffreemt/baidu-tr-async-free/workflows/Python3.6|3.7%20package/badge.svg) [![codecov](https://codecov.io/gh/ffreemt/baidu-tr-async-free/branch/master/graph/badge.svg)](https://codecov.io/gh/ffreemt/baidu-tr-async-free)
 baidu translate for free with async and proxy support
 
 ### Installation
