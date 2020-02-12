@@ -1,3 +1,4 @@
+''' setup '''
 # pylint: disable=invalid-name
 from pathlib import Path
 import re
