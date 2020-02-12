@@ -1,6 +1,6 @@
 ''' init '''
-from .bdtr_async import bdtr_async
-from bdtr_async.baidu_sign import baidu_sign
+from .bdtr_async import bdtr_async, baidu_sign
+# from .baidu_sign import baidu_sign
 
 __version__ = '0.0.1'
 __date__ = '2020.2.12'
